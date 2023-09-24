@@ -1,0 +1,1 @@
+import{o as s,c as e,n as c}from"./index-9fd9e99a.js";const i=["height","src","width"],n={__name:"Image",props:{src:String,width:String,height:String,classStr:String},setup(t){return(a,r)=>(s(),e("img",{class:c(t.classStr),height:t.height,src:"https://cdn.jsdelivr.net/gh/ppcj-map/ppcj-map.github.io@latest"+t.src,width:t.width,alt:""},null,10,i))}};export{n as _};
