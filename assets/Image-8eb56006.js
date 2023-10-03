@@ -1,1 +1,0 @@
-import{o as s,c,n as e}from"./index-f5276375.js";const i=["height","src","width"],h={__name:"Image",props:{src:String,width:String,height:String,classStr:String},setup(t){return(n,a)=>(s(),c("img",{class:e(t.classStr),height:t.height,src:"https://api.muhanyun.cn/ppcj"+t.src,width:t.width,alt:""},null,10,i))}};export{h as _};

@@ -1,0 +1,1 @@
+import{o as s,c as n,a as t,w as e,u as a,d as u,k as c,R as _}from"./index-a3a7cb0d.js";const l={class:"mt-3"},m={__name:"ReturnButton",props:{route:String},setup(o){return(r,d)=>(s(),n("div",l,[t(a(_),{to:{name:o.route}},{default:e(()=>[t(a(u),{type:"primary"},{default:e(()=>[c(r.$slots,"default")]),_:3})]),_:3},8,["to"])]))}};export{m as _};
